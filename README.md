@@ -7,5 +7,6 @@ I will upload my progress here.
 
 Updates:
 1/2/2017 - Learning to use github; becoming familiar with git bash
+1/3/2017
 
 
